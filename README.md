@@ -4,6 +4,8 @@
 
 A ridiculously simple tool to plot telemetry data from a running program and trigger function calls.
 
+Got the added flavour by Pixelbo of ansi colouring !
+
 ![](images/preview.jpg)
 
 `echo "myData:4" | nc -u -w0 127.0.0.1 47269`
